@@ -2,7 +2,7 @@
 
 - 🎀 Software Engineer
 - 📝 Check Out [My CV](https://drive.google.com/file/d/1m23qg0qQKAJqODADkU8feuleFRaNL5af/view?usp=sharing) 
-- 🎁 currently working on Chat App (Conversa)
+- 🎁 Currently working on Chat App (Conversa)
 - ✨ Connect With me On [LinkedIn](https://www.linkedin.com/in/amr-abdoullah/)  & [Email](https://mail.google.com/mail/u/0/?to=amr.abdoullah@gmail.com&fs=1&tf=cm)
 - 🤓 Check my problem-solving Skills [LeetCode](https://leetcode.com/Amrsalah14/)  & [HackerRank](https://www.hackerrank.com/amr_abdoullah?hr_r=1)
 <img src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="img" width="30%" align="center"/>
