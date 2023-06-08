@@ -2,8 +2,8 @@
 
 - 🎀 Software Engineer
 - 🎁 currently working on Chat App (Conversa)
-- ✨ Connect With me On [LinkedIn](https://www.linkedin.com/in/amr-abdoullah/) ,  & [Email](amr.abdoullah@gmail.com)
-- 🤓 Check my problem-solving Skills [LeetCode](https://leetcode.com/Amrsalah14/) ,  & [HackerRank](https://www.hackerrank.com/amr_abdoullah?hr_r=1)
+- ✨ Connect With me On [LinkedIn](https://www.linkedin.com/in/amr-abdoullah/)  & [Email](amr.abdoullah@gmail.com)
+- 🤓 Check my problem-solving Skills [LeetCode](https://leetcode.com/Amrsalah14/)  & [HackerRank](https://www.hackerrank.com/amr_abdoullah?hr_r=1)
 <img src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="img" width="30%" align="center"/>
 
 
